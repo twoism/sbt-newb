@@ -1,4 +1,4 @@
 #External Dependencies
-#Wed Mar 28 20:26:44 PDT 2012
-/Users/cburnett/workspace/playground/newb/project/boot/scala-2.7.7/lib/scala-library.jar=NewbProject.scala
-/Users/cburnett/workspace/playground/newb/project/boot/scala-2.7.7/org.scala-tools.sbt/sbt/0.7.5/sbt_2.7.7-0.7.5.jar=NewbProject.scala
+#Wed Mar 28 20:46:25 PDT 2012
+/Users/cburnett/workspace/playground/sbt-newb/project/boot/scala-2.7.7/org.scala-tools.sbt/sbt/0.7.5/sbt_2.7.7-0.7.5.jar=NewbProject.scala
+/Users/cburnett/workspace/playground/sbt-newb/project/boot/scala-2.7.7/lib/scala-library.jar=NewbProject.scala
