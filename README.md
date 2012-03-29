@@ -1,8 +1,8 @@
-## Installation ##
+## Installation 
 
 `git clone git://github.com/twoism/sbt-newb.git`
 
-## Setup ## 
+## Setup 
 
     $ cd sbt-newb
     $ sbt update
